@@ -1,0 +1,85 @@
+body{
+    background-color: midnightblue;
+}
+
+h3{
+    text-align: center;
+    padding: 30px;
+    border-style: solid;
+}
+
+h1{
+    color: snow;
+    text-align: center;
+    
+
+}
+
+.page_wrapper {
+    position: relative;
+    width: 100%;
+    max-width: 120em;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+
+h2{
+    color: snow;
+}
+
+
+.wrapper{
+    position: relative;
+    width: 40%;
+    height: 100em;
+    float: left;
+    text-align: center ;
+}
+
+#location{
+    color:red;
+}
+
+
+
+img {
+width: 250px;
+height: 250px;    
+    
+}
+
+img.pikachu {
+    width: 250px;
+    height: 400px;
+    
+}
+
+
+
+ ul.navbar>li{
+    display: inline;
+    margin-right: 10px;
+}
+
+ul.years>li{
+    text-align: left;
+    margin-top: 5em;
+}
+
+
+
+li{
+    color: snow;
+
+}
+
+
+
+
+#inputs {
+    color: green;
+}
+
